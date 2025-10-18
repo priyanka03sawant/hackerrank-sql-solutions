@@ -1,0 +1,9 @@
+-- Problem: Select Specific Columns
+-- Platform: HackerRank
+-- Difficulty: Easy
+-- Description:
+-- Retrieve the CITY and STATE columns from the STATION table.
+-- This query selects specific columns rather than all columns.
+
+SELECT CITY, STATE
+FROM STATION;
